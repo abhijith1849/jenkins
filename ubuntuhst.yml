@@ -2,6 +2,6 @@ version: "3.8"
 services:
   ubuntu2:
     image: ubuntuht_img
-    container_name: container
+    container_name: ubucontainer
     ports:
-    - "7456:80"
+    - "7455:80"
